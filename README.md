@@ -40,6 +40,8 @@ Want to contribute? Great, just submit a pull request and we will get right to i
 ```
 ● Cryp7on1c/N3gative
 ● animecheat
+● aaron
+● thatlastpringle
 ```
 
 
