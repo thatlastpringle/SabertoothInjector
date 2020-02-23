@@ -1,7 +1,7 @@
 # Sabertooth Injector!
 
 
-[![Download the injector](https://img.shields.io/github/downloads/N3gativeBlood/SabertoothInjector/total?style=for-the-badge "Download the injector")](https://download_link "Download the injector")
+[![Download the injector](https://img.shields.io/badge/download-injector-brightgreen?style=for-the-badge "Download the injector")](https://download_link "Download the injector")
 ![](https://img.shields.io/github/downloads/N3gativeBlood/SabertoothInjector/total?label=Total%20Injections&style=for-the-badge)
 [![Code Issues](https://img.shields.io/github/issues/N3gativeBlood/SabertoothInjector?color=red&label=Code%20Issues&style=for-the-badge)](https://google.com)
 ![Last Commit](https://img.shields.io/github/last-commit/N3gativeBlood/SabertoothInjector?style=for-the-badge)
