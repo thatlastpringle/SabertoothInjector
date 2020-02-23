@@ -1,7 +1,7 @@
 # Sabertooth Injector!
 
 
-[![Download the injector](https://img.shields.io/badge/download-injector-brightgreen?style=for-the-badge "Download the injector")](https://download_link "Download the injector")
+[![Download the injector](https://img.shields.io/github/downloads/N3gativeBlood/SabertoothInjector/total?style=for-the-badge "Download the injector")](https://download_link "Download the injector")
 ![](https://img.shields.io/github/downloads/N3gativeBlood/SabertoothInjector/total?label=Total%20Injections&style=for-the-badge)
 [![Code Issues](https://img.shields.io/github/issues/N3gativeBlood/SabertoothInjector?color=red&label=Code%20Issues&style=for-the-badge)](https://google.com)
 ![Last Commit](https://img.shields.io/github/last-commit/N3gativeBlood/SabertoothInjector?style=for-the-badge)
@@ -16,7 +16,6 @@ Sabertooth Injector is an injector for an minecraft bedrock mod client!
 # New Features!
 
   - Changed font!
-  - Added Auto-Launcher
 
 
 
@@ -34,7 +33,7 @@ https://aka.ms/vs/16/release/vc_redist.x86.exe
 
 ### Development
 
-Want to contribute? Great, just submit an pull request and we will look at it!
+Want to contribute? Great!
 
 
 
@@ -42,8 +41,8 @@ Want to contribute? Great, just submit an pull request and we will look at it!
 ### To do's
 
  - Add Night Mode
+ - Add auto launch
  - Add beta login
- - Add website link
 
 License
 ----
