@@ -47,6 +47,7 @@ Want to contribute? Great, just submit a pull request and we will get right to i
 
  - Add Night Mode
  - Add beta login
+ - Add dev mode
 
 License
 ----
