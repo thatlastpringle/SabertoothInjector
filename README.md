@@ -33,9 +33,11 @@ Want to contribute? Great!
 
 
 
-### Todos
+### To do's
 
  - Add Night Mode
+ - Add auto launch
+ - Add beta login
 
 License
 ----
