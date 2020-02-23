@@ -35,7 +35,12 @@ https://aka.ms/vs/16/release/vc_redist.x86.exe
 
 Want to contribute? Great, just submit a pull request and we will get right to it!
 
+### Developers
 
+```
+● Cryp7on1c/N3gative
+● animecheat
+```
 
 
 ### To do's
