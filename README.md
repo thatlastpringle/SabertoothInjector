@@ -16,7 +16,7 @@ Sabertooth Injector is an injector for an minecraft bedrock mod client!
 
 # New Features!
 
-  - Changed font!
+  - Changed font! New colors.
 
 
 
@@ -24,7 +24,11 @@ Sabertooth Injector is an injector for an minecraft bedrock mod client!
 
 Install the dependencies to run!
 
-https://downloafdlink.com
+For 64 bit:
+https://aka.ms/vs/16/release/vc_redist.x64.exe
+For 32 bit:
+https://aka.ms/vs/16/release/vc_redist.x86.exe
+
 
 
 ### Development
