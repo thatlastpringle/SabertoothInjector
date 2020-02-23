@@ -15,9 +15,6 @@ Sabertooth Injector is an injector for an minecraft bedrock mod client!
 
 
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
 ### Installation
 
 Install the dependencies to run!
@@ -33,7 +30,7 @@ Want to contribute? Great!
 
 #### Kubernetes + Google Cloud
 
-See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
+See [LICENSE.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
 
 
 ### Todos
