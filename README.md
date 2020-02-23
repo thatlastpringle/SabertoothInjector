@@ -26,6 +26,7 @@ Install the dependencies to run!
 
 For 64 bit:
 https://aka.ms/vs/16/release/vc_redist.x64.exe
+
 For 32 bit:
 https://aka.ms/vs/16/release/vc_redist.x86.exe
 
