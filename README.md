@@ -41,7 +41,6 @@ Want to contribute? Great, just submit a pull request and we will get right to i
 ### To do's
 
  - Add Night Mode
- - Add auto launch
  - Add beta login
 
 License
