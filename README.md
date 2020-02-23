@@ -30,7 +30,7 @@ Want to contribute? Great!
 
 #### Kubernetes + Google Cloud
 
-See [LICENSE.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
+See [LICENSE.md](https://github.com/N3gativeBlood/SabertoothInjector/blob/master/LICENSE)
 
 
 ### Todos
