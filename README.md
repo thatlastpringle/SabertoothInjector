@@ -16,6 +16,7 @@ Sabertooth Injector is an injector for an minecraft bedrock mod client!
 # New Features!
 
   - Changed font!
+  - Added Auto-Launcher
 
 
 
@@ -41,7 +42,6 @@ Want to contribute? Great, just submit an pull request and we will look at it!
 ### To do's
 
  - Add Night Mode
- - Add auto launch
  - Add beta login
  - Add website link
 
