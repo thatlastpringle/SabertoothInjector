@@ -33,7 +33,7 @@ https://aka.ms/vs/16/release/vc_redist.x86.exe
 
 ### Development
 
-Want to contribute? Great!
+Want to contribute? Great, just submit a pull request and we will get right to it!
 
 
 
