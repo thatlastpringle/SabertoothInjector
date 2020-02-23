@@ -28,10 +28,6 @@ Want to contribute? Great!
 
 
 
-#### Kubernetes + Google Cloud
-
-See [LICENSE.md](https://github.com/N3gativeBlood/SabertoothInjector/blob/master/LICENSE)
-
 
 ### Todos
 
@@ -40,4 +36,4 @@ See [LICENSE.md](https://github.com/N3gativeBlood/SabertoothInjector/blob/master
 License
 ----
 
-PENDING
+See [LICENSE.md](https://github.com/N3gativeBlood/SabertoothInjector/blob/master/LICENSE)
