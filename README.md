@@ -33,7 +33,7 @@ https://aka.ms/vs/16/release/vc_redist.x86.exe
 
 ### Development
 
-Want to contribute? Great!
+Want to contribute? Great, just submit an pull request and we will look at it!
 
 
 
@@ -43,6 +43,7 @@ Want to contribute? Great!
  - Add Night Mode
  - Add auto launch
  - Add beta login
+ - Add website link
 
 License
 ----
